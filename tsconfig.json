@@ -7,8 +7,8 @@
   "include": ["src"],
   "exclude": ["lib"],
   "references": [
-    { "path": "../util" },
-    { "path": "../crud-request" },
-    { "path": "../crud" }
+    // { "path": "../util" },
+    // { "path": "../crud-request" },
+    // { "path": "../crud" }
   ]
 }
